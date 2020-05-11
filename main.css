@@ -1,0 +1,25 @@
+.site-header{
+    background-color:blueviolet;
+    color: blanchedalmond;
+    height: 100vh;
+    font-family:monospace ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .content-side{
+margin: 10px;
+    }
+
+    .profile{
+        border-radius: 50%;
+        height: 180px;
+        width: 180px;
+        align-self: center;
+        box-shadow:rgb(93, 5, 175) 2px 5px 5px;
+    }
+
+    body{
+        margin: 0;
+    }
